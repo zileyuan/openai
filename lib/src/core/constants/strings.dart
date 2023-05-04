@@ -9,5 +9,5 @@ abstract class OpenAIStrings {
 
   static const  version = 'v1';
 
-  static const defaultBaseUrl = 'https://api.openai.com';
+  static const defaultBaseUrl = 'https://ai.snakego.org';
 }
